@@ -1,0 +1,51 @@
+world_rank,university_name,national_rank,total_score,alumni,award,hici,ns,pub,pcp
+1,Harvard University,1,100.0,100.0,100.0,100.0,100.0,100.0,72.4
+2,University of Cambridge,1,73.6,99.8,93.4,53.3,56.6,70.9,66.9
+3,Stanford University,2,73.4,41.1,72.2,88.5,70.9,72.3,65.0
+4,"University of California, Berkeley",3,72.8,71.8,76.0,69.4,73.9,72.2,52.7
+5,Massachusetts Institute of Technology (MIT),4,70.1,74.0,80.6,66.7,65.8,64.3,53.0
+6,California Institute of Technology,5,67.1,59.2,68.6,59.8,65.8,52.5,100.0
+7,Columbia University,6,62.3,79.4,60.6,56.1,54.2,69.5,45.4
+8,Princeton University,7,60.9,63.4,76.8,60.9,48.7,48.5,59.1
+9,University of Chicago,8,60.1,75.6,81.9,50.3,44.7,56.4,42.2
+10,University of Oxford,2,59.7,64.3,59.1,48.4,55.6,68.4,53.2
+11,Yale University,9,56.9,52.1,44.5,60.3,57.2,63.9,49.3
+12,Cornell University,10,54.6,46.5,52.4,55.0,48.8,66.3,39.8
+13,"University of California, San Diego",11,51.0,17.7,34.7,59.8,56.5,64.5,46.6
+14,"University of California, Los Angeles",12,50.6,27.3,32.8,56.7,50.1,75.6,34.3
+15,University of Pennsylvania,13,50.2,35.5,35.1,56.7,42.9,71.8,39.1
+16,University of Wisconsin - Madison,14,49.2,43.0,36.3,52.1,46.3,68.7,29.0
+17,University of Washington,15,48.4,28.8,32.4,53.9,47.1,73.8,27.2
+18,"University of California, San Francisco",16,47.8,0.0,37.6,55.6,57.9,58.8,45.2
+19,The Johns Hopkins University,17,46.9,51.4,28.3,41.6,52.2,67.7,24.9
+20,The University of Tokyo,1,46.7,36.0,14.4,38.5,52.1,86.5,34.7
+21,University of Michigan - Ann Arbor,18,44.9,43.0,0.0,61.9,43.0,76.5,30.9
+22,Kyoto University,2,43.8,39.7,34.1,34.2,37.0,72.3,31.1
+23,"The Imperial College of Science, Technology and Medicine",3,43.7,20.8,38.1,40.8,38.2,64.6,40.3
+24,University of Toronto,1,43.1,28.1,19.7,39.3,38.9,76.7,41.9
+25,University of Illinois at Urbana-Champaign,19,42.8,41.6,37.4,44.4,34.1,58.0,26.0
+26,University College London,4,42.6,30.7,32.9,37.7,41.5,60.5,38.8
+27,Swiss Federal Institute of Technology Zurich,1,41.7,40.2,37.0,35.1,41.1,43.4,52.4
+28,Washington University in St. Louis,20,40.7,25.1,26.6,38.5,46.5,53.9,39.9
+29,New York University,21,38.8,33.8,25.0,43.0,35.3,55.4,26.3
+30,Rockefeller University,22,38.2,22.6,59.8,28.3,44.1,24.0,35.9
+31,Northwestern University,23,37.9,21.7,19.3,44.4,33.8,57.6,36.2
+32,Duke University,24,37.7,20.8,0.0,47.1,45.3,60.8,38.9
+32,"University of Minnesota, Twin Cities",24,37.7,36.0,0.0,49.7,35.2,68.4,23.8
+34,"University of California, Santa Barbara",26,36.9,0.0,36.0,42.3,39.0,44.1,35.8
+35,University of Colorado at Boulder,27,36.3,16.6,29.8,40.8,36.6,46.3,29.5
+36,The University of Texas at Austin,28,35.5,21.7,17.1,49.1,30.0,54.8,21.7
+37,University of British Columbia,2,35.4,20.8,19.3,32.4,32.5,60.4,33.9
+38,The University of Texas Southwestern Medical Center at Dallas,29,34.8,24.3,33.9,31.4,38.2,37.9,31.0
+39,Pennsylvania State University - University Park,30,33.4,14.0,0.0,45.8,37.9,59.9,24.0
+39,Vanderbilt University,30,33.4,12.5,30.2,34.2,24.5,49.2,35.6
+41,"University of California, Davis",32,32.9,0.0,0.0,46.5,34.5,64.0,29.8
+41,Utrecht University,1,32.9,30.7,21.4,27.2,27.3,55.7,25.9
+43,"Rutgers, The State University of New Jersey - New Brunswick",33,32.3,15.4,20.4,36.9,32.9,47.1,24.1
+43,University of Pittsburgh,33,32.3,25.1,0.0,40.1,25.9,64.3,28.2
+45,Karolinska Institute,1,32.1,30.7,27.8,33.3,19.7,47.3,25.1
+46,Pierre and Marie  Curie University - Paris 6,1,32.0,35.7,23.9,23.6,24.2,51.2,30.0
+47,The University of Edinburgh,5,31.8,22.6,17.1,26.1,35.8,49.4,29.9
+47,"University of California, Irvine",35,31.8,0.0,30.0,32.4,28.5,48.2,31.1
+47,"University of Maryland, College Park",35,31.8,25.9,0.0,40.8,33.6,54.6,25.6
+50,University of Southern California,37,31.7,0.0,27.3,37.7,23.6,52.8,25.8

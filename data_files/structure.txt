@@ -1,0 +1,257 @@
+Novel Corona Virus 2019 Dataset: Day level information on covid-19 affected cases: COVID19_line_list_data.csv, time_series_covid_19_confirmed.csv, time_series_covid_19_deaths.csv, time_series_covid_19_recovered.csv, 
+Heart Disease UCI: https://archive.ics.uci.edu/ml/datasets/Heart+Disease: heart.csv, 
+Video Game Sales: Analyze sales data from more than 16,500 games.: 
+World Happiness Report: Happiness scored according to economic production, social support, etc.: 2015.csv, 2016.csv, 2017.csv, 2018.csv, 2019.csv, 
+Netflix Movies and TV Shows: Movies and TV Shows listings on Netflix: 
+Breast Cancer Wisconsin (Diagnostic) Data Set: Predict whether the cancer is benign or malignant: data.csv, 
+Pima Indians Diabetes Database: Predict the onset of diabetes based on diagnostic measures: diabetes.csv, 
+Avocado Prices: Historical data on avocado prices and sales volume in multiple US markets: 
+Pokemon with stats: 721 Pokemon with stats and types: Pokemon.csv, 
+IBM HR Analytics Employee Attrition & Performance: Predict attrition of your valuable employees: WA_Fn-UseC_-HR-Employee-Attrition.csv, 
+Mushroom Classification: Safe to eat or deadly poison?: mushrooms.csv, 
+Telco Customer Churn: Focused customer retention programs: WA_Fn-UseC_-Telco-Customer-Churn.csv, 
+COVID-19 in India: Dataset on Novel Corona Virus Disease 2019 in India: StatewiseTestingDetails.csv, covid_19_india.csv, 
+House Sales in King County, USA: Predict house price using regression: 
+Hotel booking demand: From the paper: hotel booking demand datasets: 
+Red Wine Quality: Simple and clean practice dataset for regression or classification modelling: winequality-red.csv, 
+International football results from 1872 to 2020: An up-to-date dataset of over 40,000 international football results: 
+Goodreads-books: comprehensive list of all books listed in goodreads: 
+Medical Cost Personal Datasets: Insurance Forecast by using Linear Regression: insurance.csv, 
+Student Alcohol Consumption: Social, gender and study data from secondary school students: student-mat.csv, student-por.csv, 
+Life Expectancy (WHO): Statistical Analysis on factors influencing Life Expectancy: Life Expectancy Data.csv, 
+Sales of summer clothes in E-commerce Wish: Top products with ratings and sales performance, unlike many other datasets: unique-categories.csv, unique-categories.sorted-by-count.csv, 
+US Election 2020: Race to Presidential Election 2020 by County: governors_county.csv, governors_county_candidate.csv, house_candidate.csv, house_state.csv, president_county.csv, senate_county.csv, senate_county_candidate.csv, 
+Boston House Prices: Regression predictive modeling machine learning problem from end-to-end Python: housing.csv, 
+Genetic Variant Classifications: Predict whether a variant will have conflicting clinical classifications.: 
+Indian Food 101: Data about 255 traditional and famous dishes in India: indian_food.csv, 
+Glass Classification: Can you correctly identify glass type?: glass.csv, 
+Suicides in India: Sucides in each state is classified according to various parameters from 2001-12: 
+Heart Attack Prediction: This file describes the contents of the heart-disease directory.: 
+Udemy Courses: 3.682 courses listings from 4 different subjects.: udemy_courses.csv, 
+Social Power NBA: NBA on the court performance with Social Influence, Popularity and Power: nba_2016_2017_100.csv, nba_2017_att_val.csv, nba_2017_att_val_elo.csv, nba_2017_att_val_elo_with_cluster.csv, nba_2017_attendance.csv, nba_2017_br.csv, nba_2017_nba_players_with_salary.csv, nba_2017_pie.csv, nba_2017_players_stats_combined.csv, nba_2017_players_with_salary_wiki_twitter.csv, nba_2017_real_plus_minus.csv, nba_2017_salary.csv, nba_2017_twitter_players.csv, 
+IPL _Data_Set: IPL Data (2008-2019): matches.csv, most_runs_average_strikerate.csv, 
+COVID-19 containment and mitigation measures: Policies to reduce the transmission of COVID-19: COVID 19 Containment measures data.csv, 
+Temperature Readings : IOT Devices: Relational dataset from IOT devices to record temperaure readings.: 
+COVID-19/SARS B-cell Epitope Prediction: A simple dataset for epitope prediction used in vaccine development: input_sars.csv, 
+Indonesia-Coronavirus: Data Science for COVID-19 Indonesia (DSCI) Initiative: cases.csv, confirmed_acc.csv, jabar.csv, jakarta.csv, keywordtrend.csv, patient.csv, province.csv, 
+Complete Kaggle Datasets Collection: A dataset of Kaggle datasets, so you can explore while you explore: 
+Africa Economic, Banking and Systemic Crisis Data: Data on Economic and Financial crises in 13 African Countries (1860 to 2014): african_crises.csv, 
+YouTube Faces With Facial Keypoints: Videos of Celebrity Faces with Facial Keypoints for each Image Frame: youtube_faces_with_keypoints_full.csv, 
+London bike sharing dataset: Historical data for bike sharing in London 'Powered by TfL Open Data': london_merged.csv, 
+US Public Food Assistance: Where does it come from, who spends it, who gets it.: SNAP_history_1969_2019.csv, 
+Weather in Szeged 2006-2016: Hourly/daily summary with temperature, pressure, wind speed and more: 
+Caravan Insurance Challenge: Identify potential purchasers of caravan insurance policies: 
+100,000 UK Used Car Data set: 100,000 scraped used car listings, cleaned and split into car make.: audi.csv, bmw.csv, cclass.csv, focus.csv, ford.csv, hyundi.csv, merc.csv, skoda.csv, toyota.csv, unclean cclass.csv, unclean focus.csv, vauxhall.csv, vw.csv, 
+The Estonia Disaster Passenger List: The full list of all passengers and crew members aboard the MS Estonia.: estonia-passenger-list.csv, 
+The Ultimate Halloween Candy Power Ranking: What’s the best Halloween candy?: candy-data.csv, 
+Weather Dataset: : 
+Mice Protein Expression: Expression levels of 77 proteins measured in the cerebral cortex: Data_Cortex_Nuclear.csv, 
+Text Similarity: Natural Language Processing on Stock data: test.csv, train.csv, 
+Titanic: For Binary logistic regression: test_data.csv, train_data.csv, 
+The Spotify Hit Predictor Dataset (1960-2019): Over 40,000+ Tracks labeled hit or flop, with their features.: dataset-of-00s.csv, dataset-of-10s.csv, dataset-of-90s.csv, 
+GSMArena Phone Dataset: 8000+ phones specifications scraped from GSMArena Website: 
+Twitter US Airline Sentiment: Analyze how travelers in February 2015 expressed their feelings on Twitter: 
+Campus Recruitment: Academic and Employability Factors influencing placement: Placement_Data_Full_Class.csv, 
+Diamonds: Analyze diamonds by their cut, color, clarity, price, and other attributes: 
+Weather Conditions in World War Two: Daily Weather Summaries from 1940-1945: Weather Station Locations.csv, 
+World Happiness Report up to 2020: Bliss scored agreeing to financial, social, etc.: 2020.csv, 
+U.S. Opiate Prescriptions/Overdoses: Can you save lives through predictive modeling?: opioids.csv, overdoses.csv, 
+Hillary Clinton and Donald Trump Tweets: Tweets from the major party candidates for the 2016 US Presidential Election: 
+Airline Passenger Satisfaction: What factors lead to customer satisfaction for an Airline?: 
+countryinfo: Relevant variables that may be required in order to predict COVID's progression.: covid19countryinfo.csv, covid19tests.csv, 
+Bank marketing campaigns dataset | Opening Deposit: Bank Marketing (with social/economic context) dataset with loan target variable: 
+MESSIDOR-2 DR Grades: Adjudicated DR Severity, DME, and Gradability for the MESSIDOR-2 fundus dataset: messidor_data.csv, 
+Women's E-Commerce Clothing Reviews: 23,000 Customer Reviews and Ratings : 
+Default of Credit Card Clients Dataset: Default Payments of Credit Card Clients in Taiwan from 2005: 
+brazilian_houses_to_rent: Dataset houses to rent in diferents cities in Brazil: houses_to_rent.csv, houses_to_rent_v2.csv, 
+Data Hackers Survey 2019: Resultados da pesquisa de mercado de Data Science feita pelo Data Hackers: 
+eCommerce Item Data: 500 SKUs and their descriptions. Great for content engine training!: sample-data.csv, 
+RNA-seq Airway Data: RNA-seq Airway Data - GSE52778: 
+Nifty Indices Dataset: Daily level historical dataset of major NIFTY indices  : INDIAVIX.csv, NIFTY 100.csv, NIFTY 50.csv, NIFTY 500.csv, NIFTY AUTO.csv, NIFTY BANK.csv, NIFTY FMCG.csv, NIFTY IT.csv, NIFTY METAL.csv, NIFTY MIDCAP 150.csv, NIFTY NEXT 50.csv, NIFTY PHARMA.csv, NIFTY SMALLCAP 250.csv, 
+California Housing Data (1990): California Housing Price Prediction: 
+TOTAL SALE 2018 Yearly data of grocery shop.: Sale information of quantity, products,prices and margin.: Day_sell_24_12_18.csv, ROTATION_of_products01.01.2018-09.01.2019.csv, 
+Finance & Accounting Courses - Udemy (13K+ course): 13 thousand educational courses in Finance & Accounting category from Udemy: 
+Pesquisa Nacional por Amostra de Domicílios - PNAD: Amostra de Domicílios: 
+Gender Classification: Classifying gender based on personal preferences: Transformed Data Set - Sheet1.csv, 
+Chess Game Dataset (Lichess): 20,000+ Lichess Games, including moves, victor, rating, opening details and more: 
+MRI and Alzheimers: Magnetic Resonance Imaging Comparisons of Demented and Nondemented Adults: oasis_cross-sectional.csv, oasis_longitudinal.csv, 
+Financial Distress Prediction: Bankruptcy Prediction: 
+Student Grade Prediction: Predict the final grade of Portugese high school students: 
+COVID-19 Tracking Germany: Daily Updated Cases & Deaths - Augmented with geospatial & demographics info: demographics_de.csv, 
+Wine Quality: : winequalityN.csv, 
+Computer Network Traffic: Traffic from workstation IPs where at least half were compromised: cs448b_ipasn.csv, 
+Star dataset to predict star types: A 6 class star dataset for star classification with Deep Learned approaches: 6 class csv.csv, 
+Temperature Time-Series for some Brazilian cities: Temperature data records for some Brazilian capitals: station_belem.csv, station_curitiba.csv, station_fortaleza.csv, station_goiania.csv, station_macapa.csv, station_manaus.csv, station_recife.csv, station_rio.csv, station_salvador.csv, station_sao_luiz.csv, station_sao_paulo.csv, station_vitoria.csv, 
+Red Wine Dataset: This is a subset of wine quality dataset which contains only red wine samples: wineQualityReds.csv, 
+Forest Fires Data Set: predict the burned area of forest fires using meteorological and other data: forestfires.csv, 
+Predict NHL Player Salaries: Build a model to predict the salaries of NHL players based on player data: test_salaries.csv, 
+Formula 1 Race Data: Race data from 1950 to 2017: circuits.csv, constructorResults.csv, constructorStandings.csv, constructors.csv, driverStandings.csv, drivers.csv, pitStops.csv, qualifying.csv, races.csv, seasons.csv, status.csv, 
+Sloan Digital Sky Survey DR14: Classification of Stars, Galaxies and Quasars: 
+College Basketball Dataset: Data sets for the 2015 through 2020 seasons: cbb.csv, cbb15.csv, cbb16.csv, cbb17.csv, cbb18.csv, cbb19.csv, cbb20.csv, 
+1000 Netflix Shows: Understand the rating distributions of Netflix shows: Netflix Shows.csv, 
+NBA Players Stats - 2014-2015: Points, Assists, Height, Weight and other personal details and stats: players_stats.csv, 
+Moneyball: MLB Statistics 1962-2012: baseball.csv, 
+BCG - COVID-19 AI Challenge: Improve BCG Data and Provide Insights to "BCG - COVID-19" Clinical Trials: BCG-Strain.csv, BCG_COVID-19_clinical_trials-2020_06_06.csv, BCG_COVID-19_clinical_trials-2020_11_11.csv, BCG_COVID-19_scientific_papers.csv, BCG_country_data.csv, BCG_world_atlas_data-2020.csv, task_1-google_search_manually_reviewed_metadata.csv, task_1-google_search_translated_to_english_metadata.csv, task_2-BCG_strain_per_country-1Nov2020.csv, task_2-BCG_strain_per_country-8Nov2020.csv, task_2-BCG_world_atlas_data-bcg_strain-7July2020.csv, task_2-COVID-19-death_cases_per_country_after_fifth_death-till_22_September_2020.csv, task_2-COVID-19-death_cases_per_country_after_first_death-till_22_September_2020.csv, task_2-Gemany_per_state_stats_20June2020.csv, task_2-Tuberculosis_infection_estimates_for_2018.csv, 
+Palmer Archipelago (Antarctica) penguin data : Drop in replacement for Iris Dataset: penguins_lter.csv, penguins_size.csv, 
+Weather Madrid 1997 - 2015: Location: Barajas Airport, Madrid. Data: The Weather Company, LLC: weather_madrid_LEMD_1997_2015.csv, 
+Breast Cancer Wisconsin (Prognostic) Data Set: From: UCI Machine Learning Repository: data 2.csv, 
+Ionosphere: : ionosphere_data.csv, 
+VertebralColumnDataSet: Vertebral Column dataset: column_2C.csv, column_3C.csv, 
+A Waiter's Tips: Predict a waiter's tips at a single restaurant: tips.csv, 
+GPU Kernel Performance Dataset: Linear and Logistic Regression by implementing gradient decent algorithm: 
+COVID-19 Symptoms Checker : Predict whether someone has coronavirus or not?: Raw-Data.csv, 
+PM2.5 Data of Five Chinese Cities: Measurements for Shenyang, Chengdu, Beijing, Guangzhou, and Shanghai: 
+Comcast Consumer Complaints: Public complaints made about Comcast internet and television service.: 
+Exchange Rates: Exchange rates as far back as 1971 between the USA and 23 countries: 
+Air Quality Data in India: Air Quality in India: real_2013.csv, real_2014.csv, real_2015.csv, real_2016.csv, 
+Bets Strategy : European Soccer Database: 
+Exercise Pattern Prediction: What does your exercise pattern fall into?: pml-testing.csv, 
+Solar generation and demand Italy 2015-2016: Two-years hourly-recorded data of solar power generation and electricity demand: TimeSeries_TotalSolarGen_and_Load_IT_2015.csv, TimeSeries_TotalSolarGen_and_Load_IT_2016.csv, 
+Mall Customer Segmentation Data: Market Basket Analysis: Mall_Customers.csv, 
+UFC-Fight historical data from 1993 to 2019: Compiled UFC fight, fighter stats and information : raw_fighter_details.csv, 
+The Complete Pokemon Dataset: Data on more than 800 Pokemon from all 7 Generations.: pokemon.csv, 
+Young People Survey: Explore the preferences, interests, habits, opinions, and fears of young people: columns.csv, responses.csv, 
+2019 Coronavirus dataset (January - February 2020): Tracking the spread of 2019-nCoV: 2019_nC0v_20200121_20200126 - SUMMARY.csv, 2019_nC0v_20200121_20200126_cleaned.csv, 2019_nCoV_20200121_20200127.csv, 2019_nCoV_20200121_20200128.csv, 2019_nCoV_20200121_20200130.csv, 2019_nCoV_20200121_20200131.csv, 2019_nCoV_20200121_20200201.csv, 2019_nCoV_20200121_20200205.csv, 2019_nCoV_20200121_20200206.csv, 
+Human Resources Data Set: Dataset used for learning data visualization and basic regression: HRDataset_v14.csv, 
+WHO Suicide Statistics: Basic historical (1979-2016) data by country, year and demographic groups: 
+League of Legends Diamond Ranked Games (10 min): Classify LoL ranked games outcome by looking at the first 10min worth of data: 
+California Housing Prices: Median house prices for California districts derived from the 1990 census.: 
+Chennai Water Management: Water resources availability data for Chennai : chennai_reservoir_levels.csv, chennai_reservoir_rainfall.csv, 
+Movies on Netflix, Prime Video, Hulu and Disney+: A collection of movies found on these streaming platforms: 
+SARS CORONAVIRUS ACCESSION : Exploration of mutations of the SARS corona virus with complete genome: MN997409.1-4NY0T82X016-Alignment-HitTable.csv, SARS_CORONAVIRUS_287BP_MN975263.1_accession_nucleotide.csv, SARS_CORONAVIRUS_287BP_MN975263.1_accession_protein.csv, 
+Diabetes 130 US hospitals for years 1999-2008: Diabetes - readmission: 
+Fetal Health Classification: Classify the health of a fetus as Normal, Suspect or Pathological using CTG data: fetal_health.csv, 
+Sentiment Analysis for Financial News: Dataset contains two columns, Sentiment and News Headline: all-data.csv, 
+US Cars Dataset: Online Car Auction in North American: USA_cars_datasets.csv, 
+Singapore Airbnb: Singapore Airbnb at 29 August 2019: 
+Cars Data: Data for predicting the car make: cars.csv, 
+Mall_Customers: : 
+Divorce Prediction: Uncover what makes relationships last or break: divorce_data.csv, 
+Crop Nutrient Database: USDA data about crop nutrients in the U.S.: crops.csv, 
+School Shootings US 1990-present: Record of all school shooting incidents since 1990: cps_01_formatted.csv, pah_wikp_combo.csv, 
+Solar Flares from RHESSI Mission: Reuven Ramaty High Energy Solar Spectroscopic Imager: 
+Power consumption in India(2019-2020): Time series analysis of power consumption in different states of India(2019-20): dataset_tk.csv, long_data_.csv, 
+FIFA worldcup 2018 Dataset: All participating teams history: World Cup 2018 Dataset.csv, 
+Pantheon Project: Historical Popularity Index: Record of every historical figure with Wikipedia biography in 25+ languages: 
+Mock Traffic Data: for INFORMS Talk on November 19, 2019: MockTrafficDataForMCNFP.csv, 
+Open Data 500 Companies: The first comprehensive study of U.S. companies using open government data: us_companies.csv, 
+Professional Hockey Database: Data on hockey players, teams, and coaches from 1909 to 2011: AwardsCoaches.csv, AwardsPlayers.csv, Coaches.csv, CombinedShutouts.csv, Goalies.csv, GoaliesSC.csv, GoaliesShootout.csv, HOF.csv, Master.csv, ScoringSC.csv, ScoringShootout.csv, SeriesPost.csv, TeamSplits.csv, TeamVsTeam.csv, Teams.csv, TeamsHalf.csv, TeamsPost.csv, abbrev.csv, 
+My Settlers of Catan Games: Starting positions, roll distributions, postgame statistics of 50 4-player games: catanstats.csv, 
+Every Pub in England: Every pub in the UK and its address: 
+TMD Dataset - 5 seconds sliding window: Transportation Mode Detection with Unconstrained Smartphones Sensors: 
+Individual Company Sales Data: : 
+Auto mobile pricing: Dataset of automobiles with different features and their prices: imports_85_data.csv, 
+Sensor readings from a wall-following robot: Data collected from a robot while navigating around a room: sensor_readings_2.csv, sensor_readings_24.csv, sensor_readings_4.csv, 
+Wisconsin Breast Cancer Database: breastCancer.csv dataset: breastCancer.csv, 
+Indian Liver Patient Records: Patient records collected from North East of Andhra Pradesh, India: indian_liver_patient.csv, 
+Biomechanical features of orthopedic patients: Classifying patients based on six features: column_2C_weka.csv, column_3C_weka.csv, 
+Open Exoplanet Catalogue: Characteristics of all discovered extrasolar planets: oec.csv, 
+Question-Answer Dataset: Can you use NLP to answer these questions?: text_data_toc.csv, 
+Coursera Course Dataset: Course dataset scrapped from Coursera website: coursea_data.csv, 
+Hospitals and beds in India (Statewise): Statwise number of beds and hospitals in India. : AYUSHHospitals.csv, Hospitals_and_Beds_statewise.csv, Number of Government Hospitals and Beds in Rural and Urban Areas .csv, 
+Twitter User Gender Classification: Predict user gender based on Twitter profile information: 
+Restaurant Data with Consumer Ratings: Data from a restaurant recommender prototype: chefmozaccepts.csv, chefmozcuisine.csv, chefmozhours4.csv, chefmozparking.csv, geoplaces2.csv, rating_final.csv, usercuisine.csv, userpayment.csv, userprofile.csv, 
+English Word Frequency: ⅓ Million Most Frequent English Words on the Web: 
+Flight Route Database: A database of 59,036 flight routes: 
+Airline Database: A database of over 5000 airlines: airlines.csv, 
+Population by Country - 2020: Countries in the world by population - 2020: population_by_country_2020.csv, 
+Polycystic ovary syndrome (PCOS): pcos dataset contains all physical and clinical parameters of patients : PCOS_infertility.csv, 
+Unemployment and mental illness survey: Exploring the causation of high unemployment among the mentally ill: 
+Global Historical Climatology Network: Land and ocean temperature anomalies: 
+World Cities: All of the world's major cities above 15,000 inhabitants: world-cities.csv, 
+Nutrition Facts for McDonald's Menu: Calories, fat, and sugar for every cheeseburger, fries, and milkshake on menu: menu.csv, 
+Border Crossing Entry Data: Inbound US border crossing entries : 
+Threatened Species in Brazil: : especies_ameacadas_de_extincao-2019.csv, 
+Groceries dataset : Dataset of 38765 rows for Market Basket Analysis: 
+Bank Marketing Dataset: Predicting Term Deposit Suscriptions: bank.csv, 
+Logistic regression To predict heart disease: heart disease prediction: framingham.csv, 
+Silicon Valley Diversity Data: What’s diversity like for 23 top tech companies?: Distributions_data_2016.csv, Reveal_EEO1_for_2016.csv, Tech_sector_diversity_demographics_2016.csv, 
+COVID-19 in Italy: Coronavirus Disease 2019 cases in Italy: covid19_italy_region.csv, 
+Near-Earth Comets: Heliocentric orbital data for comets that make approaches near Earth's orbit: near-earth-comets.csv, 
+Historical Financials Data for 3000+ stocks: Financials data for 3000+ companies parsed directly from the SEC since 2006: 
+Gas emissions (CO2-e) by transport sector.: Queensland greenhouse gas emissions from 1990–2016. : dioxide.csv, 
+TMDb Movies Dataset: Investigating Dataset contains information about 10k+ movies collected from TMDb: 
+Biodiversity - Golden Plains Roadside : Golden Plains Shire  - Adaptation and Sustainability Partnership (VASP) : 
+Koala records.: Koala records for twenty years to 2014.: koala.csv, 
+Gold Coast City - Waste Collection Points.: Waste - City of Gold Coast : waste.csv, 
+Titanic Solution for Beginner's Guide: Titanic Solution for Beginner's Guide: genderclassfare.csv, 
+Brazilian Stock Market Tweets with Emotions: Tweets related to IBOVESPA stocks with emotions annotated by crowdsourcing: tweets_annotators.csv, tweets_stocks-full_agreement.csv, tweets_stocks.csv, 
+Badminton Game Data (BWF Super Series 2015-2017): Badminton scores from 11872 games: 
+Hemp Suitability: Southern Grampians Model of Irrigated Suitability: 
+Worldwide Blockbusters 2019-1977: The top 10 highest grossing films globally between 2019 and 1977: Blockbusters_2019-1977.csv, 
+Reddit India Flair Detection: Detect flair for r/india Subreddit.: 
+Asteroid Dataset: NASA JPL Asteroid Dataset: 
+Network Traffic Android Malware: Malware and Benign Apps: android_traffic.csv, 
+Tasmania  Oral Health : Oral Health Service Tasmania - Clinic Attendance: 
+The Tweets of Wisdom: A collection of wise words straight from the Twitter: 
+2017 Kaggle ML & DS Survey: A big picture view of the state of data science and machine learning.: conversionRates.csv, schema.csv, 
+Gender Recognition by Voice: Identify a voice as male or female: 
+Rain in Australia: Predict rain tomorrow in Australia: 
+US Minimum Wage by State from 1968 to 2017: US Minimum Wage by State from 1968 to 2017 and 2018 Equivalent Dollars: Minimum Wage Data.csv, 
+NFL scores and betting data: Scores and descriptive game info for National Football League games: nfl_stadiums.csv, nfl_teams.csv, 
+COVID-19 Healthy Diet Dataset: Let's fight COVID-19 by adapting to a healthy diet! : Fat_Supply_Quantity_Data.csv, Food_Supply_Quantity_kg_Data.csv, Food_Supply_kcal_Data.csv, Protein_Supply_Quantity_Data.csv, Supply_Food_Data_Descriptions.csv, 
+World Happiness Report 2019: World happiness gauged by technologies, social norms, and government policies.: world-happiness-report-2019.csv, 
+StartUp Investments (Crunchbase): Information about startup companies and investment via Crunchbase : 
+Zoo Animal Classification: Use Machine Learning Methods to Correctly Classify Animals Based Upon Attributes: zoo.csv, 
+Top Spotify Tracks of 2018: Audio features of top Spotify songs: top2018.csv, 
+TV shows on Netflix, Prime Video, Hulu and Disney+: A collection of tv shows found on these streaming platforms: tv_shows.csv, 
+Top Spotify Tracks of 2017: Audio features of top Spotify songs: featuresdf.csv, 
+NYS Environmental Remediation Sites: Explore Open Data from New York State: 
+Sentiment Lexicons for 81 Languages: Sentiment Polarity Lexicons (Positive vs. Negative): correctedMetadata.csv, 
+Fibrosis SMOC2 Raw Counts : Fibrosis SMOC2 Raw Counts : 
+ATP Men's Tour: Results of the ATP tour competitions since 2000: 
+Global Hospital Beds Capacity (for covid-19): Baseline for understanding the typical hospitals bed capacity globally: hospital_beds_USA_v1.csv, hospital_beds_global_v1.csv, hospital_beds_per_arcgis_v1.csv, hospital_beds_per_ccm_journal_v1.csv, hospital_beds_per_datahub_worldbank_v1.csv, hospital_beds_per_eurostat_v1.csv, hospital_beds_per_germany_kaggle_v1.csv, hospital_beds_per_ibge_v1.csv, hospital_beds_per_icm_journal_v1.csv, hospital_beds_per_india_v1.csv, hospital_beds_per_italy_v1.csv, hospital_beds_per_knh_v1.csv, hospital_beds_per_oecd_v1.csv, hospital_beds_per_other_v1.csv, hospital_beds_per_spain_v1.csv, hospital_beds_per_sweden_v1.csv, hospital_beds_per_wdi_v1.csv, 
+Groceries Market Basket Dataset: The dataset contains 9835 transactions and 169 unique items: groceries - groceries.csv, groceries.csv, 
+Health Analytics: 26 health indicators (642 variables) from 9 states and 284 districts of India: Key_indicator_districtwise.csv, Key_indicator_statewise.csv, 
+Bike Sharing in Washington D.C. Dataset: Rental bikes in 2011 and 2012 with corresponding weather and seasonal info: day.csv, 
+Solar and Lunar Eclipses: Date, time, and location of every eclipse in five thousand years: solar.csv, 
+Memory Test on Drugged Islanders Data: Anti-Anxiety Medicine on Novel Islanders grouped by Happy or Sad Memory Priming: Islander_data.csv, 
+Birds' Bones and Living Habits: Measurements of bones and ecological groups of birds: bird.csv, 
+Heart_Disease: Heart Disease Data set exploration: 
+Math Students: Math Scores for each student: 
+Corn & Soybean Prices 2008-2017: Prices with USDA WASDE Monthly Projections: USDAProj_Corn_2007to2008.csv, USDAProj_Corn_2008to2009.csv, USDAProj_Corn_2009to2010.csv, USDAProj_Corn_2010to2011.csv, USDAProj_Corn_2011to2012.csv, USDAProj_Corn_2012to2013.csv, USDAProj_Corn_2013to2014.csv, USDAProj_Corn_2014to2015.csv, USDAProj_Corn_2015to2016.csv, USDAProj_Corn_2016to2017.csv, USDAProj_Corn_2017to2018.csv, USDAProj_Soybean_2007to2008.csv, USDAProj_Soybean_2008to2009.csv, USDAProj_Soybean_2009to2010.csv, USDAProj_Soybean_2010to2011.csv, USDAProj_Soybean_2011to2012.csv, USDAProj_Soybean_2012to2013.csv, USDAProj_Soybean_2013to2014.csv, USDAProj_Soybean_2014to2015.csv, USDAProj_Soybean_2015to2016.csv, USDAProj_Soybean_2016to2017.csv, USDAProj_Soybean_2017to2018.csv, 
+Reinforcement Learning from Scratch in Python: Beginner's Guide to Finding the Optimal Actions of a Defined Environment: OptimalPolicy_angletol45.csv, 
+Police Officer Deaths in the U.S.: On-Duty Police Officer Deaths from 1971-2016: 
+Airports, Train Stations, and Ferry Terminals: Openflight.org's database of the worlds transportation hubs: 
+Firefighter Fatalities in the United States: Name, rank, and cause of death for all firefighters killed since 2000: 
+Global suicide data: : MH_12.csv, Male-Female-Ratio-of-Suicide-Rates.csv, SDGSUICIDE.csv, suicide-rates-by-country.csv, 
+Train Stations in Europe: Names, Coordinates, and Properties of European Railway Stations: 
+Diabetes Data Set: This dataset is originally from the N. Inst. of Diabetes & Diges. & Kidney Dis.: 
+Geological Texture Database: Location, description, and texture of samples.: 
+Student Performance Data Set: Student Performance Data Set: 
+Alc consumption and higher education: : 
+SMS Spam Collection Dataset: Collection of SMS messages tagged as spam or legitimate: spam.csv, 
+Deep-NLP: natural language processing: Sheet_1.csv, Sheet_2.csv, 
+Classify gestures by reading muscle activity.: a recording of human hand muscle activity producing four different hand gestures: 0.csv, 1.csv, 2.csv, 3.csv, 
+Last Words of Death Row Inmates: Text Mining with Farewell Words: Texas Last Statement - CSV.csv, 
+Political Social Media Posts: Classify partisan bias, audience, and goal based on politicians' social media: 
+Stanford Mass Shootings in America (MSA): A high quality dataset from 1966-2016 with method, definitions and references: dictionary_stanford_msa_release_06142016.csv, mass_shooting_events_stanford_msa_release_06142016.csv, 
+5,000 #JustDoIt! Tweets Dataset: People reacting to Nike's endorsement of Colin Kaepernick: 
+Car Evaluation Data Set: may be useful for testing constructive induction and structure discovery methods: car_evaluation.csv, 
+Avatar: The Last Airbender: TV Series, IMDB, Transcripts / Subtitles, Nickelodeon, Text Data, Text Mining: avatar_data.csv, scenes.csv, 
+NBA shot logs: Moneyball data, for basketball.: 
+2016 US Presidential Election Vote By County: County-level data on presidential voting: 
+Fertilizers by Product FAO: Product amounts for the uses of chemical and mineral fertilizers: 
+The Marvel Universe Social Network: An artificial social network of heroes: nodes.csv, 
+Pokemon Sun and Moon (Gen 7) Stats: Explore all 802 Pokemon from the newly released 7th Generation: abilities.csv, items.csv, moves.csv, type-chart.csv, 
+Detailed NFL Play-by-Play Data 2015: An NFL dataset generated by the nflscrapR R-package & primed for analysis: 
+Versatile Production System: Data for condition monitoring, predictive maintenance, machine learning: Deliverymodule.csv, Dosingmodule.csv, Filling_CapGrabber.module.csv, Filling_CapScrewer.module.csv, Filling_CornPortioning.module.csv, Filling_Pump.module.csv, Production.csv, Storagemodule.csv, 
+Total Business Inventories and Sales Data: Explore Time Series from the U.S. Census Bureau: BUSINV.csv, ISRATIO.csv, TOTBUSIMNSA.csv, TOTBUSIRNSA.csv, TOTBUSMPCIMSA.csv, TOTBUSMPCSMSA.csv, TOTBUSSMNSA.csv, TOTBUSSMSA.csv, 
+House Price Prediction Challenge: Predict the house prices in India: sample_submission.csv, 
+Vega shrink-wrapper component degradation: New vs worn cutting blade data: NewBlade001.csv, NewBlade002.csv, NewBlade003.csv, WornBlade001.csv, WornBlade002.csv, WornBlade003.csv, 
+Population Time Series Data: Explore Time Series from the U.S. Census Bureau: POP.csv, POPH.csv, 
+UCI SECOM Dataset: Semiconductor manufacturing process dataset: 
+National Stock Exchange : Time Series: national stock exchange dataset of indian IT companies for time series analysis: infy_stock.csv, nifty_it_index.csv, tcs_stock.csv, 
+Bank Marketing: Bank Marketing, UCI Dataset: 
+Real estate price prediction: regression analysis, mutiple regression,linear regression, prediction : Real estate.csv, 
+Banking Dataset - Marketing Targets: Banking Dataset of different customers to predict if they will convert or not. : 
+Salary data - Simple linear regression: Machine Learning A - Z: 
+Deep Learning A-Z - ANN dataset: Kirill Eremenko "Deep Learning A-Z™: Hands-On Artificial Neural Networks" course: Churn_Modelling.csv, 
+Classifying wine varieties: Great practice for testing out different algorithms: Wine.csv, 
+Indonesian Stoplist: Most common words (stop words) in Bahasa Indonesia: stopwordbahasa.csv, 
+Movehub City Rankings: Compare key metrics for over 200 cities: cities.csv, movehubcostofliving.csv, movehubqualityoflife.csv, 
+Fireballs: Bolide impacts by the kiloton since 1988.: cneos_fireball_data.csv, 
+StarCraft II matches history: Predict the results of matches in StarCraft 2 using historical data: 
+Stated Preferences for Car Choice: Data Sets for Econometrics: Car.csv, 
+Indoor location determination with RSSI: 120K RSSI samples to determine X,Y,Z coordinates in a two-level building: 
+CO2 Emission by Vehicles: Amount of CO2 emissions by a vehicle depending on their various features.: CO2 Emissions_Canada.csv, 
